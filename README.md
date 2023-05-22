@@ -8,17 +8,6 @@ The A* algorithm is a widely used search algorithm that combines the advantages 
 
 Russell and Norvig's work in the 8-puzzle domain provides valuable insights into the effect of heuristic quality on the performance of the A* algorithm. By reproducing their experimental results, we aim to validate their findings and further understand the relationship between heuristic quality and search performance.
 
-## Repository Structure
-
-The repository is organized as follows:
-
-- `src/`: Contains the source code for the A* algorithm implementation.
-- `data/`: Includes the puzzle instances used for the experiments.
-- `results/`: Stores the experimental results obtained during the reproduction of the table in Figure 3.29.
-- `docs/`: Contains supplementary documentation and resources.
-
-Certainly! Here's the updated "Getting Started" section with the provided repository link:
-
 ## Getting Started
 
 To run the A* algorithm implementation and reproduce the experimental results, follow these steps:
